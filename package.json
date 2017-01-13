@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/gusaiani/elm-tutorial#readme",
   "dependencies": {
+    "ace-css": "1",
+    "font-awesome": "4",
     "json-server": "^0.9.4"
   }
 }
